@@ -1,0 +1,7 @@
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\bin\Debug\InterfaceDiverza.exe.config
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\bin\Debug\InterfaceDiverza.exe
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\bin\Debug\InterfaceDiverza.pdb
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\obj\Debug\InterfaceDiverza.csprojResolveAssemblyReference.cache
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\obj\Debug\InterfaceDiverza.exe
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\obj\Debug\InterfaceDiverza.pdb
+D:\Users\wcastane\Documents\Visual Studio 2015\Projects\InterfaceDiverza\InterfaceDiverza\bin\Debug\ICSharpCode.SharpZipLib.dll
